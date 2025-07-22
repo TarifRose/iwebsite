@@ -1,0 +1,1 @@
+page for qr code
