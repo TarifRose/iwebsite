@@ -1,1 +1,1 @@
-page for qr code
+directory; qr code
